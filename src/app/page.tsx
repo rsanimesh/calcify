@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button"
+import Header from "@/features/header/Header"
 
 export default function Home() {
   return (
-      <div>
-        <Button>Click me</Button>
+      <div className="flex min-h-screen flex-col bg-[#F8FAFC] dark:bg-[#1E293B] transition-colors duration-300">
+          <Header />
       </div>
   );
 }
