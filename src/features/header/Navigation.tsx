@@ -9,7 +9,7 @@ export default function Navigation({ isMobile = false }: NavigationProps) {
         { name: "Home", href: "/" },
         { name: "All Calculators", href: "/calculators" },
         { name: "About", href: "/about" },
-        { name: "Login", href: "/login" },
+        // { name: "Login", href: "/login" },
     ]
 
     return (
