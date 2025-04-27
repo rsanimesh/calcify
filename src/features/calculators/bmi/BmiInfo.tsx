@@ -12,7 +12,7 @@ export default function BmiInfo({ className = "" }: BmiInfoProps) {
             </p>
             <p className="text-gray-600 dark:text-gray-300">
                 The formula is BMI = weight(kg) / height(m)². A BMI between 18.5 and 24.9 is considered normal weight. However,
-                BMI is not a diagnostic tool and doesn't account for factors like muscle mass, bone density, and ethnic
+                BMI is not a diagnostic tool and does&apos;t account for factors like muscle mass, bone density, and ethnic
                 differences.
             </p>
         </div>
