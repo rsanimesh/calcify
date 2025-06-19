@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34cf6332-3459-4198-ad6d-5fd1fe72dafe" name="Changes" comment="added shadcn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rsanimesh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rsanimesh/calcify.git&quot;,
+    &quot;accountId&quot;: &quot;cff8e02b-7093-4139-8c96-aaa6b39b91ab&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -71,7 +82,8 @@
       <workItem from="1745711070321" duration="77000" />
       <workItem from="1745711179630" duration="9990000" />
       <workItem from="1746138392342" duration="1132000" />
-      <workItem from="1747898146950" duration="45000" />
+      <workItem from="1747898146950" duration="673000" />
+      <workItem from="1748532352763" duration="87000" />
     </task>
     <servers />
   </component>
